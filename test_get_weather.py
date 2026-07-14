@@ -32,10 +32,16 @@ class TestWeatherBot(unittest.TestCase): # объявляем класс TestWea
 
     def test_bot_keyboard(self):  # объявляем функцию test_bot_keyboard, которая проверяет создание кнопки
         markup = get_weather.bot_keyboard() # присваеваем переменной markup ответ функции get_weather.bot_keyboard
-
         self.assertIsInstance(markup, telebot.types.ReplyKeyboardMarkup) # проверяем, что переменная markup является экземпляром класса ReplyKeyboardMarkup библиотеки telebot
         self.assertTrue(markup.resize_keyboard) # проверяем, что атрибут resize_keyboard равен True
-        self.assertEqual(markup.keyboard[0][0].text, 'Какая погода сейчас в Москве?') # проверяем текст кнопки
+        
+        button = markup.keyboard[0][0] # получаем саму кнопку
+        
+        # проверяем тип кнопки: в некоторых версиях telebot это словарь, в других - объект KeyboardButton
+        if isinstance(button, dict):
+            self.assertEqual(button['text'], 'Какая погода сейчас в Москве?') # если это словарь, обращаемся по ключу
+        else:
+            self.assertEqual(button.text, 'Какая погода сейчас в Москве?') # если это объект, обращаемся к атрибуту .text
 
     @patch('get_weather.bot.send_message') # @patch временно заменяет сообщения, чтобы не отправлять их действительно в Telegram
     def test_start_message(self, mock_send): # объявляем функцию test_start_message, где мы будем отправлять сообщение с необходимыми нам значениями, в mock_send мы указываем необходимое сообщение
