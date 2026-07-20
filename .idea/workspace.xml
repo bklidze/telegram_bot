@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddaf3a6b-171c-407c-b569-cc7b9f7eb7d4" name="Changes" comment="&quot;Эксперимент с pull request: добавил файл&quot;">
+      <change beforePath="$PROJECT_DIR$/test_get_weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_get_weather_(0.1).py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="not_main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bklidze/telegram_bot.git&quot;,
+    &quot;accountId&quot;: &quot;1bd94bb7-0b54-441a-a120-761584ee8150&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GVZykrsl4rLOPgW1eVLoUkAHaE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddaf3a6b-171c-407c-b569-cc7b9f7eb7d4" name="Changes" comment="" />
+      <created>1784058954981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784058954981</updated>
+      <workItem from="1784058956254" duration="1614000" />
+      <workItem from="1784370798323" duration="987000" />
+      <workItem from="1784371838330" duration="590000" />
+      <workItem from="1784372501062" duration="665000" />
+      <workItem from="1784373195346" duration="1806000" />
+      <workItem from="1784375134661" duration="170000" />
+      <workItem from="1784375343164" duration="746000" />
+      <workItem from="1784376229328" duration="744000" />
+      <workItem from="1784377063282" duration="1241000" />
+      <workItem from="1784378361047" duration="254000" />
+      <workItem from="1784398211623" duration="1226000" />
+      <workItem from="1784568427530" duration="286000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Эксперимент с pull request: добавил файл&quot;">
+      <option name="closed" value="true" />
+      <created>1784371261343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784371261343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Эксперимент с pull request: добавил файл&quot;" />
+    <MESSAGE value="&quot;Эксперимент с pull request: провел merge&quot;&#10;&#10;# Conflicts:&#10;#&#9;test.txt" />
+    <MESSAGE value="&quot;Эксперимент с pull request: провел merge&quot;&#10;&#10;# Conflicts:&#10;#&#9;test.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Эксперимент с pull request: провел merge&quot;&#10;&#10;# Conflicts:&#10;#&#9;test.txt" />
+  </component>
+</project>
